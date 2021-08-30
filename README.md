@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binarypixells
 - 👀 I’m interested in anything about programming and game/software development! Also the occasional donut.
 - 🌱 I’m currently learning C# in unity!
-- 💞️ I’m looking to collaborate on App Fortune and TS-Dos with techguy
+- 💞️ I’m looking to collaborate on App Fortune and TS-Dos with @techguy16
 - 📫 How to reach me: Don't. Just don't.
 
 <!---
